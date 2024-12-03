@@ -3,3 +3,7 @@
     margin: 0;
     font-family: sans-serif;
 }
+html, body{
+    font-style: 62.5%;
+    scroll-behavior: smooth;
+}
